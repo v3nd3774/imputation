@@ -18,5 +18,5 @@ The following figures suggest that for the iris dataset where there is a conside
 ### Single Experiment
 ![Single Experiment's results](graphs/exp1.png)
 
-### Average <a href="https://www.codecogs.com/eqnedit.php?latex=F_1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?F_1" title="F_1" /></a> scores over $`n=30`$<a href="https://www.codecogs.com/eqnedit.php?latex=n=30" target="_blank"><img src="https://latex.codecogs.com/gif.latex?n=30" title="n=30" /></a> experiments
+### Average <a href="https://www.codecogs.com/eqnedit.php?latex=F_1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?F_1" title="F_1" /></a> scores over <a href="https://www.codecogs.com/eqnedit.php?latex=n=30" target="_blank"><img src="https://latex.codecogs.com/gif.latex?n=30" title="n=30" /></a> experiments
 ![Average over 30 Experiments' results](graphs/expavg30.png)
